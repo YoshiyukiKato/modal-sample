@@ -1,0 +1,19 @@
+*{
+  margin : 0;
+  padding : 0;
+}
+.modal-wrapper{
+  position : fixed;
+  display : flex;
+  align-items: center;
+  justify-content: center;
+  width : 100vw;
+  height : 100vh;
+  background-color : rgba(0, 0, 0, 0.4);
+}
+
+.modal-content{
+  width : 90%;
+  height : 95%;
+  background-color : whitesmoke;
+}
